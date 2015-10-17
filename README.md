@@ -44,7 +44,7 @@ Materials:
 - 1 Button
 - 5 volt voltage source
 
-Three green LED, three red LED and three yellow LED are connected in parallel to create the two flags. Twenty one yellow LED are connected in parallel to create the C letter. Twenty three yellow LED are connected in parallel to create the E letter. These four parallel arrays are connected in paralel between the microcontroller and the 330 ohm resistor that is connected to the ground. The button is connected to the 10 kiloohm resistor that comes from the voltage source, the microcontroller is connected on the same node to allow lectures. The button is also connected to ground. The voltage source and the ground are also connected to the microcontroller.
+Three green LED, three red LED and three yellow LED are connected in parallel to create the two flags. Twenty one yellow LED are connected in parallel to create the C letter. Twenty three yellow LED are connected in parallel to create the E letter. These four arrays are connected in parallel between the microcontroller and the 330 ohm resistor that goes to the ground. The button is connected to the 10 kiloohm resistor that comes from the voltage source, the microcontroller is connected on the same node to allow lectures. The button is also connected to ground. The voltage source and the ground are also connected to the microcontroller.
 
 ##Project final status
 The project works at its 100 percent.
