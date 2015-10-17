@@ -77,7 +77,7 @@ Chart 1. Roberto Bonilla's timesheet.
 | Buying components           |   1   |
 | Welding components          |   5   |
 | Unwelding components        |   1   |
-| Welding components          |   5   |
+| Welding components again    |   5   |
 | Tests                       |  0.08 |
 | Replacing leds              |  0.3  |
 | Tests                       |  0.25 |
