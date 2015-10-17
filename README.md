@@ -95,3 +95,4 @@ Chart 2. Pablo Rodriguez's timesheet.
 
 ## References
 
+Atmel Corporation. (2014). Atmel AVR 8-bit Instruction Set. San Jose, California: Atmel Corporation.
