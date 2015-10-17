@@ -50,21 +50,34 @@ Three green LED, three red LED and three yellow LED are connected in parallel to
 The project works at its 100 percent.
 
 ##Issues Found
+- Issue: The program doesnt do anything.
+- Solution: Check for the jumps and infinite loops
+- Issue: The input is not being read.
+- Solution: Be sure to be using PINB and not PORTB 
 - Issue: series connected LED's instensity is almost null.
 - Solution: connect them in parallel.
 - Issue: a LED is turned off.
 - Solution: check it, if is damaged change it, if isn't find the lost connection to weld it again.
 
 ##Conclusions
+
+- Its a realiabe solution for simple projects that requires few I/O pins to use an attiny.
+- Its a very powerful tool 
 - LEDs have to be connected un parallel to generate the same voltage, because in series the voltage decreases.
 - Microcontrollers are a good tool for simple and small circuits.
-- Assembly is harder but more powerful.
+- Assembly is hard and unproductive but more powerful.
+- Assembly language is literal and does exactly what you tell.
+
 
 ##Suggestions and recommendations
+- Reading the documentation helps a lot, and avoids errors.
+- Make a lot of tags, it helps the organization of the code.
+- Research about what exactly each instruction does, and experiment.
+- Use the simulator when writing assembler to a microcontroller.
 - If you are going to weld use gloves and glasses.
 - Be sure you are welding the definitive circuit.
 - Be sure you are welding undamaged components.
-- Buy a little more components than you need because it's easy to burn them.
+- Buy a few more components than you need because it's easy to burn them.
 
 ##Student's Activity Log
 
@@ -73,7 +86,7 @@ Chart 1. Roberto Bonilla's timesheet.
 | Activity                    |Time(h)|
 |:---------------------------:|:-----:|
 | Planning                    |   2   |
-| Reaserch                    |   1   |
+| Research                    |   1   |
 | Buying components           |   1   |
 | Welding components          |   5   |
 | Unwelding components        |   1   |
