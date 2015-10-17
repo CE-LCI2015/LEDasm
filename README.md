@@ -62,8 +62,9 @@ The project works at its 100 percent.
 
 ##Suggestions and recommendations
 - If you are going to weld use gloves and glasses.
-- Be sure that you are welding the definitive circuit.
-- Be sure that you are welding undamaged components.
+- Be sure you are welding the definitive circuit.
+- Be sure you are welding undamaged components.
+- Buy a little more components than you need because it's easy to burn them.
 
 ##Student's Activity Log
 
