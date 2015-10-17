@@ -50,18 +50,18 @@ The project works at its 100 percent.
 - Issue: series connected LED's instensity is almost null.
 - Solution: connect them in parallel.
 
-- Issue: one or more LEDs are turned off.
+- Issue: a LED is turned off.
 - Solution: check it, if is damaged change it, if isn't find the lost connection to weld it again.
 
 ##Conclusions
-LEDs have to be connected un parallel to generate the same voltage, because in series the voltage decreases.
-Microcontrollers are a good tool for simple and small circuits.
-Assembly is harder but more powerful.
+- LEDs have to be connected un parallel to generate the same voltage, because in series the voltage decreases.
+- Microcontrollers are a good tool for simple and small circuits.
+- Assembly is harder but more powerful.
 
 ##Suggestions and recommendations
-If you are going to weld use gloves and glasses.
-Be sure that you are welding the definitive circuit.
-Be sure that you are welding undamaged components.
+- If you are going to weld use gloves and glasses.
+- Be sure that you are welding the definitive circuit.
+- Be sure that you are welding undamaged components.
 
 ##Student's Activity Log
 
