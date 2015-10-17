@@ -49,7 +49,6 @@ The project works at its 100 percent.
 ##Issues Found
 - Issue: series connected LED's instensity is almost null.
 - Solution: connect them in parallel.
-
 - Issue: a LED is turned off.
 - Solution: check it, if is damaged change it, if isn't find the lost connection to weld it again.
 
